@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shubham Garg
+- 👋 Hi, I’m Shubham
 - 👀 I primarily use python to code
 - 🌱 I’m interested in working in the field of Natural Language Processing
 - 💞️ I’m looking to collaborate on NLP projects using python
